@@ -1,7 +1,7 @@
 # ViC-MAE
 Official PyTorch/GPU codebase for [ViC-MAE: Self-Supervised Representation Learning from Images and Video with Contrastive Masked Autoencoders](https://arxiv.org/abs/2303.12001v2).
 
-![ViC-MAE](https://jeffhernandez1995.github.io/vicmae/vicmae-model.png)
+![ViC-MAE](images/vicmae-model.png)
 
 This repo is based on:
 - [MAE](https://github.com/facebookresearch/mae)
